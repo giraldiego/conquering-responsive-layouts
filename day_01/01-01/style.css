@@ -13,6 +13,10 @@ body {
 .parent {
   background-color: #23424a;
   padding: 50px;
+
+  /* width: 600px; */
+  width: 80%;
+  margin: 0 auto;
 }
 
 .child {
