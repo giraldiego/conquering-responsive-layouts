@@ -23,15 +23,32 @@ body {
   font-family: sans-serif;
 }
 
-.container {
-  width: 80%;
-  max-width: 750px;
-  margin: 0 auto;
+section {
+  padding: 1rem 2rem;
+}
+
+h1, h2 {
+  margin:0;
+}
+
+/* body * {
+  border: 1px solid red;
+} */
+
+.bg-dark {
   background: #23424a;
   color: white;
-  padding: 50px 0;
+}
+
+.container {
+  max-width: 750px;
+  margin: 0 auto;
 }
 
 .intro-content {
+  margin: 2rem 0;
   width: 50%;
 }
+
+
+
